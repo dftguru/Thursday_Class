@@ -1,2 +1,2 @@
 # Thursday_Class
-This is a test sample for Thursday class
+I am making and committing a change to this branch. 
